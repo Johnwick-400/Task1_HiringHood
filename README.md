@@ -1,5 +1,5 @@
 # Task1_HiringHood
-# Text-to-Speech Web Application
+# Text-to-Speech Web Application : 
 
 A full-featured Text-to-Speech application using Amazon Polly that converts text to natural-sounding speech.
 
@@ -77,12 +77,3 @@ A full-featured Text-to-Speech application using Amazon Polly that converts text
 ### Adjusting Speech Parameters
 
 Modify the `rate_values` and `volume_values` dictionaries in the `generate_speech` method to add more options.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [Amazon Polly](https://aws.amazon.com/polly/) for the Text-to-Speech service
-- [Streamlit](https://streamlit.io/) for the web application framework
