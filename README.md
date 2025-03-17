@@ -52,6 +52,9 @@ A full-featured Text-to-Speech application using Amazon Polly that converts text
        export AWS_DEFAULT_REGION=us-east-1
        ```
      - Credentials file: `~/.aws/credentials`
+## Demo Video
+
+https://github.com/user-attachments/assets/5c3b77ed-a15f-4d76-9190-8771b19f3950
 
 ## Usage
 
